@@ -30,7 +30,9 @@ Follow us on social media to stay updated with the latest news and developments:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)](https://twitter.com/GalileoProtocol){:target="_blank"}
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Galileo%20Protocol-blue?logo=linkedin)](https://www.linkedin.com/company/galileo-protocol/){:target="_blank"}
+<a href="https://www.linkedin.com/company/galileo-protocol/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Galileo%20Protocol-blue?logo=linkedin" alt="LinkedIn">
+</a>
 
 [![Medium](https://img.shields.io/badge/Medium-%40GalileoProtocol-blue?logo=medium)](https://medium.com/@GalileoProtocol){:target="_blank"}
 
