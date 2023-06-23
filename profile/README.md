@@ -28,7 +28,7 @@ To get started with Galileo Protocol, check out our https://www.galileoprotocol.
 
 Follow us on social media to stay updated with the latest news and developments:
 
-![https://twitter.com/GalileoProtocol](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)
+[![Twitter](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)](https://twitter.com/GalileoProtocol)
 
 ![https://www.linkedin.com/company/galileo-protocol/](https://img.shields.io/badge/LinkedIn-Galileo%20Protocol-blue?logo=linkedin)
 
