@@ -28,10 +28,10 @@ To get started with Galileo Protocol, check out our https://www.galileoprotocol.
 
 Follow us on social media to stay updated with the latest news and developments:
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)](https://twitter.com/GalileoProtocol)
+[![Twitter](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)](https://twitter.com/GalileoProtocol){:target="_blank"}
 
-![https://www.linkedin.com/company/galileo-protocol/](https://img.shields.io/badge/LinkedIn-Galileo%20Protocol-blue?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Galileo%20Protocol-blue?logo=linkedin)](https://www.linkedin.com/company/galileo-protocol/){:target="_blank"}
 
-![https://medium.com/@GalileoProtocol](https://img.shields.io/badge/Medium-%40GalileoProtocol-blue?logo=medium)
+[![Medium](https://img.shields.io/badge/Medium-%40GalileoProtocol-blue?logo=medium)](https://medium.com/@GalileoProtocol){:target="_blank"}
 
-![(\https://t.me/GalileoProtocol](https://img.shields.io/badge/Telegram-Galileo%20Protocol%20Official%20Group-blue?logo=telegram)
+[![Telegram](https://img.shields.io/badge/Telegram-Galileo%20Protocol%20Official%20Group-blue?logo=telegram)](https://t.me/GalileoProtocol){:target="_blank"}
